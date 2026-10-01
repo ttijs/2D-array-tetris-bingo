@@ -1,5 +1,7 @@
 # 2D-array-tetris bingo
 
+## eenvoudig Bingo-achtig spel om 2D-array-indexen te oefenen
+
 - Spelers krijgen een bingo-kaart met daarop een tetris-vorm in het wit. De overige vakjes zijn grijs. 
 - Bij normale Bingo moet je een horizontale, vertikale of diagonale lijn vol krijgen.
 - BIj deze Tetris-bingo is het de bedoeling dat je de tetris-vorm vol krijgt door het aankruizen van de juiste vakjes.
